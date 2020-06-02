@@ -1,4 +1,2 @@
 HI
-YEAR=2014
-YAR=105
-hello
+YEAR=2014 updated
